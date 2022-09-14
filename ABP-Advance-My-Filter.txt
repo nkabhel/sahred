@@ -6,3 +6,4 @@ thehindu.com##.exit-point-container
 thehindu.com##.list-in.line
 thehindu.com##.trending-menu
 thehindu.com##.header-top.footer-menu.clear
+thehindu.com##.post-comment
