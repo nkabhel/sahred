@@ -1,2 +1,8 @@
 [Adblock Plus 2.0]
-//*.tinypass.com/*
+tinypass.com/*
+thehindu.com##.editvalue
+thehindu.com##.comment-rules
+thehindu.com##.exit-point-container
+thehindu.com##.list-in.line
+thehindu.com##.trending-menu
+thehindu.com##.header-top.footer-menu.clear
