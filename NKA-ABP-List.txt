@@ -10,4 +10,10 @@ thehindu.com##.trending-menu
 thehindu.com##.header-top.footer-menu.clear
 thehindu.com##.post-comment
 thehindu.com##.article p:has(a[href*='subscription'])
+! IRCTC
 assistant.corover.mobi/irctc/demo/res/chatbotlib.min.js
+cdn.truenotify.co.in/*
+www.google-analytics.com/*
+www.googletagservices.com/*
+assistant.corover.mobi/*
+cdn.nlpcaptcha.in/js/nlpCubeBox.js
