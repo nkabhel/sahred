@@ -10,3 +10,4 @@ thehindu.com##.trending-menu
 thehindu.com##.header-top.footer-menu.clear
 thehindu.com##.post-comment
 thehindu.com##.article p:has(a[href*='subscription'])
+assistant.corover.mobi/irctc/demo/res/chatbotlib.min.js
