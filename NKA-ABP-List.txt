@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NKA ABP List
 ! Expires: 1 hours (update frequency)
+
+! THE HINDU
 tinypass.com/*
 thehindu.com##.editvalue
 thehindu.com##.comment-rules
@@ -10,6 +12,7 @@ thehindu.com##.trending-menu
 thehindu.com##.header-top.footer-menu.clear
 thehindu.com##.post-comment
 thehindu.com##.article p:has(a[href*='subscription'])
+
 ! IRCTC
 assistant.corover.mobi/irctc/demo/res/chatbotlib.min.js
 cdn.truenotify.co.in/*
