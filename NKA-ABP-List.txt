@@ -13,6 +13,7 @@ thehindu.com##.header-top.footer-menu.clear
 thehindu.com##.post-comment
 thehindu.com##.article p:has(a[href*='subscription'])
 thehindu.com##.also-view-container
+thehindu.com##.referpara
 
 
 ! IRCTC
